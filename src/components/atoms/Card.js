@@ -1,7 +1,7 @@
 import React from "react"
 
 const Card = ({ heading, paragraph, imgUrl, projectLink1,projectLink2 }) => {
-  console.log(imgUrl);
+
   return (
     
     <div
