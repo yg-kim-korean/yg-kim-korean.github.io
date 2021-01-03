@@ -2,6 +2,7 @@
   "name": "react-portfolio-template",
   "private": true,
   "description": "Portfolio Template For Awesome Peoples",
+  "homepage": "https://yg-kim-korean.github.io/",
   "version": "0.1.0",
   "author": "Chetan Verma <hello@chetanverma.com>",
   "dependencies": {
