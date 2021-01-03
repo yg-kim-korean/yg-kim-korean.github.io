@@ -4,7 +4,6 @@
   "description": "Portfolio Template For Awesome Peoples",
   "version": "0.1.0",
   "author": "Chetan Verma <hello@chetanverma.com>",
-
   "dependencies": {
     "@farbenmeer/react-spring-slider": "^1.3.3",
     "gatsby": "^2.26.1",
@@ -17,7 +16,6 @@
     "gatsby-plugin-smoothscroll": "^1.2.0",
     "gatsby-source-filesystem": "^2.5.0",
     "gatsby-transformer-sharp": "^2.6.0",
-    "gh-pages": "^3.1.0",
     "node-sass": "^4.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
@@ -27,6 +25,7 @@
     "react-scroll": "^1.8.1"
   },
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "prettier": "2.1.2"
   },
   "keywords": [
@@ -34,7 +33,7 @@
   ],
   "license": "0BSD",
   "scripts": {
-    "deploy": "gatsby build && gh-pages -d public -b master",
+    "deploy": "gh-pages -d public",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
