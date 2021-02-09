@@ -33,7 +33,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "'포기하고 싶을 때 한번 더', 저의 좌우명을 바탕으로 '비프로 컴퍼니'에서 일하고 싶어 지원하였습니다.",
+    "'포기하고 싶을 때 한번 더', 언제나 저의 좌우명을 되새기며 적극적으로 새로운 시도를 하며 발전을 위해 노력하고 있습니다.",
 
   //Contact Email
   contactEmail: "kyg0752@naver.com",
@@ -45,12 +45,9 @@ export default {
     {
       id: 1, //DO NOT CHANGE THIS (Please)😅
       title: "검색페이지 구현", //Project Title - Add Your Project Title Here
-      para:
-        "React.js, Sass, Axios, Cheerio, NaverAPI", // Add Your Service Type Here
+      para: "React.js, Sass, Axios, Cheerio, NaverAPI", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-      search_1
-        ,
+      imageSrc: search_1,
       //Project URL - Add Your Project Url Here
       url1: "https://yg-kim-korean.github.io/get_pictures_from_google/",
       url2: "https://github.com/yg-kim-korean/get_pictures_from_google",
@@ -58,12 +55,9 @@ export default {
     {
       id: 2, //DO NOT CHANGE THIS (Please)😅
       title: "인스타그램 클론 페이지 구현", //Project Title - Add Your Project Title Here
-      para:
-        "React.js, CSS, Firebase", // Add Your Service Type Here
+      para: "React.js, CSS, Firebase", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-      instagram_1
-        ,
+      imageSrc: instagram_1,
       //Project URL - Add Your Project Url Here
       url1: "https://react-instagram-clone-5e019.web.app",
       url2: "https://github.com/yg-kim-korean/react-instagram-clone",
@@ -71,27 +65,25 @@ export default {
     {
       id: 3, //DO NOT CHANGE THIS (Please)😅
       title: "신발 커스터마이징 추천 서비스", //Project Title - Add Your Project Title Here
-      para:
-        "Python, TensorFlow, AI Algorithm(Mask R-CNN, GrabCut, K-means)", // Add Your Service Type Here
+      para: "Python, TensorFlow, AI Algorithm(Mask R-CNN, GrabCut, K-means)", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-      cutshoe_1
-        ,
+      imageSrc: cutshoe_1,
       //Project URL - Add Your Project Url Here
-      url1: "https://drive.google.com/file/d/1egQ23YYhpvecP4axEfzgLM1yNGYpZbaY/view?usp=sharing",
-      url2:'',
+      url1:
+        "https://drive.google.com/file/d/1egQ23YYhpvecP4axEfzgLM1yNGYpZbaY/view?usp=sharing",
+      url2: "",
     },
     {
       id: 4, //DO NOT CHANGE THIS (Please)😅
       title: "부동산 홈페이지 구현", //Project Title - Add Your Project Title Here
-      para:
-        "React.js, Sass, Django", // Add Your Service Type Here
+      para: "React.js, Sass, Django", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        realestate_1,
+      imageSrc: realestate_1,
       //Project URL - Add Your Project Url Here
-      url1: "https://drive.google.com/file/d/1rOmNrFLFwklr7rBzEN2BjJxw8uyX01Tu/view?usp=sharing",
-      url2:'https://github.com/yg-kim-korean/react-django-practice-2-realsetestate',
+      url1:
+        "https://drive.google.com/file/d/1rOmNrFLFwklr7rBzEN2BjJxw8uyX01Tu/view?usp=sharing",
+      url2:
+        "https://github.com/yg-kim-korean/react-django-practice-2-realsetestate",
     },
     // {
     //   id: 5, //DO NOT CHANGE THIS (Please)😅
@@ -136,10 +128,9 @@ export default {
   aboutParaTwo:
     " 데이터베이스, SQL 튜닝을 경험하며 빅데이터를 활용한 기술력을 쌓으려고 노력하였고, 인공지능 교육을 수강하며 더 많은 경험을 하기 위해 노력하였습니다.",
   aboutParaThree:
-    " 그 와중, '비프로 컴퍼니'를 알게 되었고, 제가 하고 싶은 일이 무엇인지를 깨달았습니다. 인생에서 축구를 빼놓고 살 수 없는 제가, 이 회사를 알게 되면서 다시 한번 어떤 것이 하고 싶은 것인지 깨닫게 되었고, 지원할 수 있는 직무 중 제가 노력해서 얻어낼 수 있는 React.JS를 공부하며 꿈을 키우고 있습니다.",
+    " 다양한 경험과 프로젝트를 진행하며 새로운 도전을 이어나가기 위해 노력하고 있습니다. 새롭고 도전적인 일을 수행하며 한단계 발전하여 최선을 다하겠습니다.",
   aboutImage:
     "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
-
 
   //   End About Section ---------------------
 
@@ -192,7 +183,7 @@ export default {
 
   promotionHeading: "Goal",
   promotionPara:
-    "대학생 이후 프론트엔드 개발에 몰두 하도록 만든 이유는 단, 하나 '비프로 컴퍼니의 채용공고' 였습니다. 어느곳보다 다니고 싶은 회사라고 생각하는 지금, 부족한 기술을 보완시켜 비프로 컴퍼니에 어울리는 인재가 되어 고객을 위한 서비스를 제공하기 위해 노력하겠습니다.",
+    "여러 시도를 통해 다양한 경험을 하기 위해 노력하였습니다. 이후 결국 제가 가장 잘할 수 있는 일을 하고 싶었습니다. 끊임 없이 새로운 것을 찾아 시도하며 발전하는 사람이 되기 위해 한걸음, 한걸음 나아가고 있습니다.",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
@@ -201,7 +192,6 @@ export default {
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "https://github.com/yg-kim-korean" },
-    
   ],
 
   // End Contact Section ---------------

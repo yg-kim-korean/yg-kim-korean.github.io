@@ -9,7 +9,7 @@ const Header = () => {
         <div className="header-wrapper">
           <Fade bottom>
             <h2>
-              안녕하세요. 김용건입니다.{" "}
+              안녕하세요. 지원자 김용건입니다.{" "}
               <span role="img" aria-label="Emoji">
                 👋
               </span>
@@ -39,7 +39,6 @@ const Header = () => {
           <Fade bottom>
             <p>{data.headerParagraph}</p>
           </Fade>
-          
         </div>
       </div>
     </div>
